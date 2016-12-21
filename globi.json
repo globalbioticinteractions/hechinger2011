@@ -3,7 +3,7 @@
   "format": "hechinger",
   "delimiter": "\t",
   "resources": {
-    "nodes": "http://www.esapubs.org/archive/ecol/E092/066/Metaweb_Nodes.txt",
-    "links": "http://www.esapubs.org/archive/ecol/E092/066/Metaweb_Links.txt"
+    "nodes": "classpath:hechinger/Metaweb_Nodes.txt",
+    "links": "classpath:hechinger/Metaweb_Links.txt"
   }
 }
