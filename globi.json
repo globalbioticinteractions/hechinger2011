@@ -5,6 +5,6 @@
   "resources": {
     "_comment": "a local copy of Metaweb_Nodes.txt was included to address https://github.com/globalbioticinteractions/hechinger2011/issues/1",
     "nodes": "Metaweb_Nodes.txt",
-    "links": "http://esapubs.org/archive/ecol/E092/066/Metaweb_Links.txt"
+    "links": "Metaweb_Links.txt"
   }
 }
